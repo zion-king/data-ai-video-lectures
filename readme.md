@@ -15,3 +15,7 @@
 #### 3. [Machine Learning Deep Dive Series, Part I](https://youtu.be/33TCzvxK87M)
 #### 4. [What Really is Data Mining?](https://youtu.be/PoVYNOJ19Dg)
 
+#### 5. Sessions Hosted
+- [A Day in the Life of a Data Geek](https://youtu.be/hbhjmjvhHOg)
+- [Data Strategy Design and Execution](https://youtu.be/yEjgx5IjczQ)
+- [Github for Data Scientists](https://youtu.be/ZR6sYB4OqME)
