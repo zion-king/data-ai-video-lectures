@@ -8,8 +8,8 @@
 - [Introduction to Probability Distributions](https://youtu.be/ptZiS-uP6RY)
 
 #### 2. Technical Presentation Assessment
-- [Evolutionary Algorithms](https://youtu.be/Ny099nntuQA)
-- [Swarm Intelligence](https://youtu.be/knGuHjdI0NI)
+- [Evolutionary Algorithms](https://youtu.be/Ny099nntuQA) – Presented by Ayo Samuel
+- [Swarm Intelligence](https://youtu.be/knGuHjdI0NI) – Presented by Raman Precious
 
 
 #### 3. [Machine Learning Deep Dive Series, Part I](https://youtu.be/33TCzvxK87M)
