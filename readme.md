@@ -1,5 +1,5 @@
 # data-ai-video-lectures
-#### This repo contains links to some of the publicly available lectures in data science I taught (or other talks, host sessions, etc) at GAMES Consort. They are mostly conceptual lectures and I will be updating this list from time time
+This repo contains links to some of the publicly available lectures in data science I taught (or other talks, host sessions, etc) at GAMES Consort. They are mostly conceptual lectures and I will be updating this list from time time.
 
 #### 1. Probabilistic Thinking Series 
 - [Calculating Probabilities (Roulette Wheel Case Study)](https://youtu.be/97Neic4VC-4) 
@@ -16,6 +16,6 @@
 #### 4. [What Really is Data Mining?](https://youtu.be/PoVYNOJ19Dg)
 
 #### 5. Sessions Hosted
-- [A Day in the Life of a Data Geek](https://youtu.be/hbhjmjvhHOg)
-- [Data Strategy Design and Execution](https://youtu.be/yEjgx5IjczQ)
-- [Github for Data Scientists](https://youtu.be/ZR6sYB4OqME)
+- [A Day in the Life of a Data Geek](https://youtu.be/hbhjmjvhHOg) with Opeyemi Fabiyi
+- [Data Strategy Design and Execution](https://youtu.be/yEjgx5IjczQ) with Jeremy Ravenel
+- [Github for Data Scientists](https://youtu.be/ZR6sYB4OqME) with Pachal Chukwuemeka Amah
